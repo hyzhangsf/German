@@ -4,7 +4,7 @@
 |Prop|English|
 |:--:|:--:|
 |**durch**  |*through*|
-|**fur**  |*for* |
+|**für**  |*for* |
 |**gegen**  |*against*|
 |**ohne**  |*without*|
 |**um**  |*around*|
