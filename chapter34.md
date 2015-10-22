@@ -15,6 +15,7 @@
 
 ## 形容词
 ### 两种形式
+* p.87, 死记
 * Attributive
 	* ein bequemer Brostuhl
 	* 需要变形
@@ -23,7 +24,7 @@
 	* 原型
 
 ###强弱形容词 
-- Weak: der/die/ads, jed-, all-, dies-, manch -, solch, welch, eines/einen
+- Weak: der/die/das, jed-, all-, dies-, manch -, solch, welch, eines/einen (Duden p261)
 - Strong: ein, etwas, 空
 * (Duden, p260)
 
@@ -33,9 +34,10 @@
 
 
 ### 所有格
+
 * Nominative
 * Accusative
-* 
+* 死记 课本p92
 
 
 ## 动词
@@ -71,6 +73,7 @@
 |versprechen | to promise   |
 |vermissen   | to miss      |
 ###情态动词
+
 |Verb|English|
 |:------:|:----------:|
 | **dürfen** | permission				|	
@@ -82,20 +85,25 @@
 | **wollen** | wanting; intention 	|
 
 * special word: **wissen** (to know)
-
 ###祈使句
+
 #### du
 - use word stem
 	-   Mach! (do!)
 	-   Gib! (give!)
+	-   Sein -> Sei
+
 
 #### ihr
 - same as present tense
+- Sein -> Seid
 
 #### Sie
 - same as present tense
+- Essen Sie etwas!
+- Sein -> Seien
 
-
+* sein: 特殊变形 
 ## 第三格
 ### 冠词
 |Kausus|Maskunlinum|Neutrum|Femininum|Plural|
@@ -106,6 +114,7 @@
 
 * 冠词后的形容词以-n/en结尾
 * 无冠词
+* 
 |Maskunlinum|Neutrum|Femininum|Plural|
 |:--:|:--:|:--:|:--:|
 |jungem Regisseur | modernem Theater | kreativer Autorin | jungen Schauspielern |
